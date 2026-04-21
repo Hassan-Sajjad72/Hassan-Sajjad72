@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm [Hassan Sajjad]
 
-<!--
-**Hassan-Sajjad72/Hassan-Sajjad72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student  
+Exploring Cloud, DevOps, and Modern Infrastructure
 
-Here are some ideas to get you started:
+I’m learning and building projects around cloud technologies, automation, and networking fundamentals — with a strong interest in secure and scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Currently Learning & Building With
+- Cloud fundamentals (Compute, Storage, Networking)
+- DevOps principles & CI/CD workflows
+- Containerization with Docker
+- Networking basics (TCP/IP, DNS, HTTP/S)
+
+
+
+## Exploring Next
+- Kubernetes & Cloud-Native systems
+- Infrastructure as Code (Terraform)
+- Platform Engineering concepts
+- DevSecOps practices
+
+
+
+## Goal
+To grow into a **Cloud & DevOps Engineer** focused on **Platform Engineering**, building infrastructure that is reliable, automated, and secure by design.
+
+---
+
+📫 Connect with me: [LinkedIn Link]
