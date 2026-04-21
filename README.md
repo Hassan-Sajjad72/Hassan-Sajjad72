@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Hassan Sajjad]
+# 👋 Hi, I'm Hassan Sajjad
 
 Computer Science Student  
 Exploring Cloud, DevOps, and Modern Infrastructure
@@ -26,6 +26,6 @@ I’m learning and building projects around cloud technologies, automation, and 
 ## Goal
 To grow into a **Cloud & DevOps Engineer** focused on **Platform Engineering**, building infrastructure that is reliable, automated, and secure by design.
 
----
 
-📫 Connect with me: [LinkedIn Link]
+
+Connect with me: www.linkedin.com/in/hassan-sajjad-2751202b9
